@@ -40,7 +40,7 @@ async def play(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     # Вставте сюди свій токен, отриманий від BotFather
-    TOKEN = "ВАШ_ТЕЛЕГРАМ_ТОКЕН"
+    TOKEN = "відьадєф093049039длфжукдл43ж12д34ьб4"
 
     application = Application.builder().token(TOKEN).build()
 
